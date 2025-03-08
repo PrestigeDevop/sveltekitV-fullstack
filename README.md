@@ -1,5 +1,5 @@
 # sveltekitV-fullstack
-Sveltekit5 ,Prisma, MongoDB Atlas ,Auth JWT.
+Sveltekit5 ,Prisma, MongoDB Atlas ,Auth JWT.zenstack
 
 ## AuthN & AuthZ  and other BaaS functionality powered by Appwrite.
 
