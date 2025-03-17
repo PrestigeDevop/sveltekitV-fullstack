@@ -1,6 +1,6 @@
 # sveltekitV-fullstack
 Sveltekit5 ,Prisma, MongoDB Atlas ,Auth JWT.
-
+you can add zenstack for authZ too
 ##  AuthN and AuthZ & some other BaaS functionality powered by Appwrite.
 
 ## Simple landing page with register and login and edit userinfo... comes with  ready to use CRUD API endpoints.
